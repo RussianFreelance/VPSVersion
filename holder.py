@@ -2,6 +2,7 @@
 import time
 import os
 
+os.system("echo Script started")
 index = 0
 while 1:
   if index % 20 == 0:
